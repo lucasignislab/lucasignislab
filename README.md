@@ -48,6 +48,7 @@ Com uma trajetória sólida no design, evoluí para um perfil **Full Stack**, on
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase" />
 </p>
 
+---
 
 ### 📊 Estatísticas
 
@@ -73,6 +74,9 @@ Com uma trajetória sólida no design, evoluí para um perfil **Full Stack**, on
     src="https://github-readme-streak-stats.herokuapp.com/?user=lucasignislab&theme=tokyonight" 
   />
 </p>
+
+---
+
 ## 📫 Contato
 
 <p align="left">
