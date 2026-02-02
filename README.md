@@ -39,7 +39,7 @@ Com uma trajetória sólida no design, evoluí para um perfil **Full Stack**, on
   <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg>" />
   <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg>" />
   <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg>" />
-   <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg>" />
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg>" />
   <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg>" />
 </p>
 
