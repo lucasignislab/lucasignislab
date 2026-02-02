@@ -48,7 +48,7 @@ Com uma trajetória sólida no design, evoluí para um perfil **Full Stack**, on
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase" />
 </p>
 
-### **DevOps & Infrastructure**
+### **DevOps, Infrastructure & Deployment**
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
