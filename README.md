@@ -28,19 +28,19 @@ Com uma trajetória sólida no design, evoluí para um perfil **Full Stack**, on
 
 ### **Front-end Development**
 <p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg>" />
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg>" />
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg>" />
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg>" />
 </p>
 
 ### **Backend & Database**
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg>" />
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg>" />
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg>" />
+   <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg>" />
+  <img src="<https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg>" />
 </p>
 
 ---
