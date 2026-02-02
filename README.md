@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Lucas%20Coelho&fontSize=80&animation=fadeIn&fontAlignY=38" width="100%" />
-</p>
-
 <div align="center">
-  <h1>lucasignislab</h1>
-  <h3>UX/UI & Product Designer | Full Stack Developer</h3>
+  <h1> 🚀 Lucas Coelho </h1>
+  <strong>UX/UI & Product Designer | Full Stack Developer</strong>
   <p>9 anos criando experiências digitais que unem estética, usabilidade e performance técnica.</p>
 </div>
 
@@ -14,10 +10,10 @@
 
 Com uma trajetória sólida no design, evoluí para um perfil **Full Stack**, onde projeto e implemento produtos digitais de ponta a ponta. Minha expertise reside em garantir que a visão do design seja traduzida com precisão técnica, utilizando arquiteturas escaláveis e seguras.
 
-- 🎨 **Design Estratégico:** Especialista em UX/UI e Design de Produto focado em conversão.
-- 💻 **Full Stack:** Desenvolvimento completo desde interfaces responsivas até APIs resilientes.
-- ⚙️ **Performance & Segurança:** Aplicação de boas práticas como validação com Zod, autenticação JWT e segurança com Helmet.
-- 🎓 **Formação:** Pós-graduado em Digital Product Design e MBA em Marketing.
+* 🎨 **Design Estratégico:** Especialista em UX/UI e Design de Produto focado em conversão.
+* 💻 **Full Stack:** Desenvolvimento completo desde interfaces responsivas até APIs resilientes.
+* ⚙️ **Performance & Segurança:** Aplicação de boas práticas como validação com Zod, autenticação JWT e segurança com Helmet.
+* 🎓 **Formação:** Pós-graduado em Digital Product Design e MBA em Marketing.
 
 ---
 
@@ -52,8 +48,8 @@ Com uma trajetória sólida no design, evoluí para um perfil **Full Stack**, on
 ## 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasignislab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasignislab&layout=compact&langs_count=6&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasignislab&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasignislab&layout=compact&theme=tokyonight" />
 </div>
 
 ---
