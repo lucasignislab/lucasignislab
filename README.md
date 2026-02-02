@@ -3,6 +3,7 @@
 </p>
 
 <div align="center">
+  <h1>lucasignislab</h1>
   <h3>UX/UI & Product Designer | Full Stack Developer</h3>
   <p>9 anos criando experiências digitais que unem estética, usabilidade e performance técnica.</p>
 </div>
