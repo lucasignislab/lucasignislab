@@ -52,17 +52,21 @@ Com uma trajetória sólida no design, evoluí para um perfil **Full Stack**, on
 ## 📊 Estatísticas
 
 <p align="left">
-  <!-- 1. Top Linguagens na frente (esquerda) -->
-  <img 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=lucasignislab&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-  <!-- 2. Github Stats depois (direita) -->
+  <!-- 1. Github Stats na frente (esquerda) -->
   <img 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats-alpha.vercel.app/api?username=lucasignislab&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <!-- Espaçamento entre os cards -->
+  &nbsp; &nbsp; &nbsp; &nbsp;
+
+  <!-- 2. Top Linguagens depois (direita) -->
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=lucasignislab&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
