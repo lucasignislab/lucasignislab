@@ -71,7 +71,7 @@ Com uma trajetória sólida no design, evoluí para um perfil **Full Stack**, on
 </p>
 
 <!-- 3. Streak centralizado abaixo -->
-<p align="center">
+<p align="left">
   <img 
     alt="GitHub Streak" 
     height="200" 
