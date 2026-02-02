@@ -13,7 +13,7 @@ Com uma trajetória sólida no design, evoluí para um perfil **Full Stack**, on
 * 🎨 **Design Estratégico:** Especialista em UX/UI e Design de Produto focado em conversão.
 * 💻 **Full Stack:** Desenvolvimento completo desde interfaces responsivas até APIs resilientes.
 * ⚙️ **Performance & Segurança:** Aplicação de boas práticas como validação com Zod, autenticação JWT e segurança com Helmet.
-* 🎓 **Formação:** Pós-graduado em Digital Product Design e MBA em Marketing.
+* 🎓 **Formação:** Pós-graduado em UX/UI Design e MBA em Marketing.
 
 ---
 
