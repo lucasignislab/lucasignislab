@@ -54,7 +54,7 @@ Com uma trajetória sólida no design, evoluí para um perfil **Full Stack**, on
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
   <img src="https://cdn.simpleicons.org/vercel/white" height="40" alt="Vercel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/github/white" height="40" alt="GitHub" />
 </p>
 
 
