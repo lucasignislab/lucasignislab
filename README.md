@@ -49,36 +49,30 @@ Com uma trajetória sólida no design, evoluí para um perfil **Full Stack**, on
 </p>
 
 
-## 📊 Estatísticas
+### 📊 Estatísticas
 
 <p align="left">
-  <!-- 1. Github Stats na frente (esquerda) -->
+  <!-- Estatísticas Gerais (Alpha Mirror - Funcionando) -->
   <img 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats-alpha.vercel.app/api?username=lucasignislab&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-  <!-- Espaçamento entre os cards -->
-  &nbsp; &nbsp; &nbsp; &nbsp;
-
-  <!-- 2. Top Linguagens depois (direita) -->
+  <!-- Top Linguagens (Alpha Mirror - Funcionando) -->
   <img 
     alt="Top Langs" 
     height="200" 
     src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=lucasignislab&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
 
-<!-- 3. Streak centralizado abaixo -->
-<p align="left">
+  <!-- Streak Stats (Novo Card de Consistência) -->
   <img 
     alt="GitHub Streak" 
     height="200" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=lucasignislab&theme=tokyonight" 
   />
 </p>
-
 ## 📫 Contato
 
 <p align="left">
