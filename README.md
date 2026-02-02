@@ -48,35 +48,26 @@ Com uma trajetória sólida no design, evoluí para um perfil **Full Stack**, on
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="Supabase" />
 </p>
 
-### **DevOps, Infrastructure & Deployment**
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
-  <img src="https://cdn.simpleicons.org/vercel/white" height="40" alt="Vercel" />
-  <img src="https://cdn.simpleicons.org/github/white" height="40" alt="GitHub" />
-</p>
-
 
 ## 📊 Estatísticas
 
 <p align="left">
-  <!-- Estatísticas Gerais (Alpha Mirror - Funcionando) -->
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats-alpha.vercel.app/api?username=lucasignislab&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<!-- Top Linguagens (Alpha Mirror - Funcionando) -->
+  <!-- 1. Top Linguagens na frente (esquerda) -->
   <img 
     alt="Top Langs" 
     height="200" 
     src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=lucasignislab&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  <!-- 2. Github Stats depois (direita) -->
+  <img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats-alpha.vercel.app/api?username=lucasignislab&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+</p>
 
-  <!-- Streak Stats (Novo Card de Consistência) -->
+<!-- 3. Streak centralizado abaixo -->
+<p align="center">
   <img 
     alt="GitHub Streak" 
     height="200" 
